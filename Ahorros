@@ -1,0 +1,7 @@
+total = 330000
+periodo_anos = 4
+periodo_meses = periodo_anos*12
+ahorros = 120000
+colchon = 30
+saldo_inicial = ahorros*((1-colchon)/100)
+print("Podemos pagar inicialmente "+saldo_inicial+" y tenemos "+periodo_meses+" para ahorrar el resto"))
